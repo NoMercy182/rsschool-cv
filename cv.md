@@ -5,9 +5,9 @@
 ### Contact information: ###
 
 Phone: +375 293540246  
-E-mail: ShikariDiAzz@gmail.com
-Telegram: @NoMercy182
-[GitHub](https://github.com/NoMercy182)
+E-mail: ShikariDiAzz@gmail.com  
+Telegram: @NoMercy182  
+[GitHub](https://github.com/NoMercy182)  
 ---
 
 ### About me -_- ###
