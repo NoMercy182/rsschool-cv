@@ -47,3 +47,15 @@ h3 {
 ul {
   margin-left: 20px;
 }
+
+.my_git {
+  margin-bottom: 20px;
+}
+
+.logo {
+  width: 330px;
+  height: 110px;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
